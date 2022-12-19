@@ -1,1 +1,0 @@
-print ("minh dep trai")
